@@ -1,0 +1,908 @@
+@media screen and (max-width:1830px){
+
+.navbar{
+    width: 100%;
+}
+.navbar .content{
+    width: 300px;
+}
+.gri{
+    width: 100%;
+}
+.gri .content{
+    width: 295px;
+}
+
+
+}
+@media screen and (max-width:1790px){
+
+.ita{
+   
+    margin:0 100px;
+    
+}
+.vess{
+    
+    margin:0 100px;
+}
+.ita img{
+    width: 500px;
+    
+    
+    
+}
+.vess img{
+    width: 500px;
+    
+}
+/* .fa{
+    margin-left: -100px;
+} */
+.iki .container{
+    width: 1500px;
+}
+
+}
+
+
+@media screen and (max-width:1500px){
+    .navbar{
+        width: 100%;
+    }
+    .navbar .content{
+        width: 200px;
+    }
+    .gri{
+        width: 100%;
+    }
+    .gri .content{
+        width: 195px;
+    }
+    .iki .container{
+        width: 1300px;
+    }
+    
+    
+   
+}
+
+@media screen and (max-width:1405px){
+    /* .otel h5{
+        padding-left: 50px;
+    } */
+
+}
+
+@media screen and (max-width:1405px){
+   
+    .ita{
+   
+        margin:0 10px ;
+        
+    }
+    .ves{
+        width: 100%;
+        margin: auto;
+    }
+    .nev{
+        width: 100%;
+        margin: auto;
+    }
+    .vess{
+        
+        margin:0 10px;
+    }
+    .ita img{
+        width: 100%;
+        height: 400px;
+        margin: auto;
+        padding-top: 30px;
+        
+        
+        
+    }
+    .vess img{
+        width: 100%;
+        height: 400px;
+        margin: auto;
+        padding-top: 30px;
+        
+    }
+    .ves h6{
+        padding-top: 50px;
+        margin-left: -50px;
+    }
+    .ves h4{
+        
+        margin-left: -50px;
+    }
+    
+   
+    .iki .container{
+        width: 75%;
+    }
+    .nev h6{
+        padding-top: 50px;
+        margin-left: -50px;
+    }
+    .nev h4{
+        
+        margin-left: -50px;
+    }
+    .pmg{
+        justify-content: center;
+    }
+    .pmg img{
+        width: 300px;
+        height: 300px;
+        margin: 50px 35px ;
+    }
+    .dmg img{
+        width: 300px;
+        height: 300px;
+        margin: 50px 35px ;
+    }
+    .dmg h6{
+        margin-top: -50px;
+    }
+    .dmg h4{
+        margin-top: -50px;
+    }
+    .pmg h6{
+        margin-top: -50px;
+    }
+    .pmg h4{
+        margin-top: -50px;
+    }
+    .dmg{
+        justify-content: center;
+    }
+   
+}
+@media screen and (max-width:1325px){
+    .ım{
+        width: 25%;
+        
+    }
+    .ım h5{
+        margin-left: -150px;
+    }
+    .hakki{
+        margin-left: -150px;
+        width: 80%;
+    }
+    .hakki p{
+        width: 398px;
+    }
+    .hakki img{
+        position: relative;
+        left: 50px;
+        top: 70px;
+    }
+    .fel{
+        margin-left: -150px;
+        margin-top: -40px;
+    }
+    .fel {
+        width: 80%;
+    }
+    
+}
+@media screen and (max-width:1200px){
+    
+    
+    .calis p{
+        width: 60%;
+        text-align: center;
+        font-size: 13px;
+        font-weight: bold;
+    }
+    .mari .p1 p{
+        margin-left: 110px;
+    }
+    .mari .bod p{
+        margin-left: 110px;
+    }
+    .gir p{
+        margin-left: 100px;
+    }
+    .girp p{
+        margin-left: 75px;
+    }
+    .man p{
+        margin-left: 95px;
+    }
+    .eml p{
+        margin-left: 80px;
+    }
+    .nuri .p1 p{
+        margin-left: 105px;
+    }
+  
+
+
+}
+@media screen and (max-width:1100px){
+    .pmg img{
+        width: 250px;
+        height: 250px;
+        margin: 50px 35px ;
+    }
+    .dmg img{
+        width: 250px;
+        height: 250px;
+        margin: 50px 35px ;
+    }
+    .pmg{
+        justify-content: center;
+    }
+    .dmg h6{
+        font-size: 18px;
+    }
+    .dmg h4{
+        font-size: 10px;
+    }
+    .pmg h6{
+        font-size: 18px;
+    }
+    .pmg h4{
+        font-size: 10px;
+    }
+}
+@media screen and (max-width:1000px){
+ 
+.navbar{
+    width: 100%;
+}
+.navbar .content{
+    width: 150px;
+}
+.gri{
+    width: 100%;
+}
+.gri .content{
+    width: 145px;
+}
+}
+@media screen and (max-width:991px){
+    .calis p{
+    margin-left: 0;
+    width: 80%;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    }
+    
+   .mari .p1 p{
+    margin-left: 20px;
+  }
+  .bod p{
+    position: relative;
+    left: -100px;
+  }
+  .man p{
+    margin-left: 10px;
+  }
+  .beh .p1 p{
+    margin-left: 5px;
+
+  }
+  .hass .p1 p{
+    margin-left: 5px;
+  }
+  .bodur p{
+    margin-left: -10px;
+  }
+  .nuri .p1 p{
+    margin-left: -5px;
+  }
+  .kars p{
+    margin-left: 5px;
+  }
+
+
+  
+}
+@media screen and (max-width:991px){
+    .sef{
+        margin-left: -80px;
+    } 
+    .pro{
+        margin-left: -80px;
+    }
+    
+   
+}
+
+@media screen and (max-width:930px){
+    /* .otel h5{
+        margin-left: 50px;
+    } */
+}
+@media screen and (max-width:930px){
+    /* .ref p{
+        font-size: 30px;
+    } */
+    .slider img{
+        height: 350px;
+    }
+    .carousel-control-prev-icon{
+        margin-top: -250px;
+    }
+    .carousel-control-next-icon{
+        margin-top: -250px;
+    }
+    .bilgi h1{
+        font-size: 50px;
+        margin-top: 50px;
+    }
+    .pmg img{
+        width: 200px;
+        height: 200px;
+        margin: 50px 35px ;
+    }
+    .dmg img{
+        width: 200px;
+        height: 200px;
+        margin: 50px 35px ;
+    }
+    .pmg{
+        justify-content: center;
+    }
+    .dmg h6{
+        font-size: 15px;
+    }
+    .dmg h6{
+        margin-top: -50px;
+    }
+    .pmg h6{
+        margin-top: -50px;
+    }
+    .dmg h4{
+        margin-top: -40px;
+    }
+    .pmg h4{
+        margin-top: -40px;
+    }
+    .dmg h4{
+        font-size: 8px;
+    }
+    .pmg h6{
+        font-size: 15px;
+    }
+    .pmg h4{
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width:892px){
+    .sef{
+        margin-left: -40px;
+    }
+    .pro{
+        margin-left: -40px;
+    }
+    .iki h6{
+        font-size: 20px;
+    }
+    .iki p{
+        font-size: 12px;
+    }
+    .uc img{
+        height: 300px;
+    }
+    .sef h4{
+        font-size: 17px;
+    }
+    .sef h1{
+        font-size: 40px;
+    }
+    .pro li{
+        font-size: 25px;
+    }
+ 
+    
+    
+}
+@media screen and (max-width:775px){
+    .navbar{
+        width: 100%;
+    }
+    .navbar .content{
+        width: 120px;
+    }
+    .gri{
+        width: 100%;
+    }
+    .gri .content{
+        width: 115px;
+    }
+    .logo img{
+        width: 100px;
+    }
+    .gri img{
+        width: 95px;
+
+    }
+    .pmg img{
+        width: 150px;
+        height: 150px;
+        margin: 50px 35px ;
+    }
+    .dmg img{
+        width: 150px;
+        height: 150px;
+        margin: 50px 35px ;
+    }
+    .pmg{
+        justify-content: center;
+    }
+    .dmg h6{
+        font-size: 10px;
+    }
+    .dmg h6{
+        margin-top: -50px;
+    }
+    .pmg h6{
+        margin-top: -50px;
+    }
+    .dmg h4{
+        margin-top: -30px;
+    }
+    .pmg h4{
+        margin-top: -30px;
+    }
+    .dmg h4{
+        font-size: 6px;
+    }
+    .pmg h6{
+        font-size: 10px;
+    }
+    .pmg h4{
+        font-size: 6px;
+    }
+    
+
+    
+
+}
+
+@media screen and (max-width:767px){
+    .calis p{
+        margin-left: 0;
+        width: 80%;
+        text-align: center;
+        font-size: 10px;
+        font-weight: bold;
+        }
+
+        .mari .p1 p{
+            margin-left: -20px;
+            width: 90%;
+          }
+          .bod p{
+            position: relative;
+            left: -90px;
+          }
+          .bod{
+            width: 160px;
+          }
+          .yus .p1 p{
+            margin-left: -5px;
+          }
+          .nat .p1 p{
+            margin-left: -35px;
+          }
+          .kus p{
+            margin-left: -20px;
+          }
+          .neys p{
+            margin-left: 15px;
+          }
+          .man p{
+            margin-left: 10px;
+          }
+          .beh .p1 p{
+            margin-left: 5px;
+        
+          }
+          .hass .p1 p{
+            margin-left: 5px;
+          }
+          .bodur p{
+            margin-left: -10px;
+          }
+          .nuri .p1 p{
+            margin-left: -5px;
+          }
+          .kars p{
+            margin-left: 5px;
+          }
+          .sad .p1 p{
+            margin-left: 60px;
+        }
+        .hay .p1 p{
+            margin-left: 10px;
+        }
+        .alp .p1 p{
+            padding-left: 90px;
+        }
+        .nar p{
+            margin-left: 35px;
+        }
+        .beh .p1 p{
+            padding-left: 85px;
+        }
+        .ism .p1 p{
+            padding-left: 105px;
+        }
+        .mert .p1 p{
+            padding-left: 120px;
+        }
+        .hass .p1 p{
+            padding-left: 85px;
+        }
+        .yalı  p{
+            padding-left: 130px;
+        }
+        .bodur p{
+            padding-left: 55px;
+        }
+        .ege .p1 p{
+            padding-left: 25px;
+        }
+        .nuri .p1 p{
+            margin-left: 75px;
+        }
+        
+      
+        .iz .p1 p{
+            margin-left: -35px;
+        }
+        .izmir p{
+            margin-left: -15px;
+        }
+        .mek .p1 p{
+            margin-left: -50px;
+            width: 100%;
+        }
+        .meta .p1 p{
+            margin-left: -33px;
+        }
+        .ereg p{
+            margin-left: -12px;
+        }
+       
+        .un .p1 p{
+            margin-left: -20px;
+        }
+        .sadı p{
+            margin-left: 0px;
+        }
+        .sad .p1 p{
+            margin-left: -15px;
+        }
+        .cen .p1 p{
+            margin-left: -25px;
+        }
+        .ceni p{
+            margin-left: -10px;
+        }
+        .por .p1 p{
+            margin-left: -25px;
+        }
+        .digi .p1 p{
+            margin-left: -20px;
+        }
+        .tirev .p1 p{
+            margin-left: -50px;
+            width: 100%;
+        }
+        .hay .p1 p{
+            padding: 0;
+            margin-left: 45px;
+        }
+        .ista p{
+            margin-left: 15px;
+        }
+        
+        .alp .p1 p{
+            padding: 0;
+            margin-left: 45px;
+           
+        }
+        .alper p{
+            padding: 0;
+            margin-left: 20px;
+        }
+        .nar p{
+            margin-left: 0px;
+
+        }
+        .beh .p1 p{
+            padding: 0;
+            margin-left: 50px;
+        }
+        .beço p{
+            margin-left: 15px;
+        }
+        .ban p{
+            margin-left: 30px;
+
+        }
+        .ism .p1 p{
+            padding: 0;
+            margin-left: 60px;
+        }
+        .isma p{
+            margin-left: 10px;
+        }
+        .sahil p{
+            margin-left: 30px;
+        }
+        .mertt p{
+            margin-left: 0px;
+        }
+        .mert .p1 p{
+            padding: 0;
+            margin-left: 50px;
+        }
+        .urla p{
+            margin-left: 15px;
+        }
+        .hass .p1 p{
+            padding: 0;
+            margin-left: 25px;
+        }
+        .yalı  p{
+            padding: 0;
+            margin-left: 60px;
+        }
+        .bodur p{
+            padding: 0;
+            margin-left: 90px;
+            width: 60%;
+        }
+        .egeu p{
+            width: 100%;
+            margin-left: 15px;
+        }
+        .ege  .p1 p{
+            margin-left: 80px;
+            width: 60%;
+            padding: 0;
+        }
+        .kars p{
+            margin-left: 30px;
+        }
+        .nuri .p1 p{
+            padding: 0;
+            margin-left: 90px;
+
+        }
+        .nurimu p{
+            width: 100%;
+            margin-left: 10px;
+        }
+        .karsı p{
+            margin-left: 50px;
+        }
+}
+    
+@media screen and (max-width:660px){
+   
+}
+    
+
+@media screen and (max-width:630px){
+    .pmg img{
+        width: 100px;
+        height: 100px;
+        margin: 50px 35px ;
+    }
+    .dmg img{
+        width: 100px;
+        height: 100px;
+        margin: 50px 35px ;
+    }
+    .pmg{
+        justify-content: center;
+    }
+    .dmg h6{
+        font-size: 8px;
+    }
+    .dmg h6{
+        margin-top: -50px;
+    }
+    .pmg h6{
+        margin-top: -50px;
+    }
+    .dmg h4{
+        margin-top: -35px;
+    }
+    .pmg h4{
+        margin-top: -35px;
+    }
+    .dmg h4{
+        font-size: 5px;
+    }
+    .pmg h6{
+        font-size: 8px;
+    }
+    .pmg h4{
+        font-size: 5px;
+    } 
+}
+@media screen and (max-width:600px){
+    .navbar{
+        width: 100%;
+    }
+    .navbar .content{
+        width: 80px;
+    }
+    .gri{
+        width: 100%;
+    }
+    .gri .content{
+        width: 75px;
+    }
+    .navbar a{
+        font-size: 13px;
+    }
+    .gri a{
+        font-size: 13px;
+    }
+    .logo img{
+        width: 70px;
+        padding-top: 25px;
+    }
+    .gri img{
+        width: 65px;
+        padding-top: 25px;
+
+    }
+    .sef{
+        margin-left: 0px;
+    }
+    .pro{
+        margin-left: 0px;
+    }
+    .sef h4{
+        font-size: 14px;
+    }
+    .sef h1{
+        font-size: 35px;
+    }
+    .pro li{
+        font-size: 20px;
+    }
+    .slider img{
+        height: 300px;
+    }
+    .carousel-control-prev-icon{
+        margin-top: -200px;
+    }
+    .carousel-control-next-icon{
+        margin-top: -200px;
+    }
+    .carousel-inner{
+        margin-top: 100px;
+    }
+   
+    
+}
+@media screen and (max-width:600px){
+    .bilgi h6{
+        font-size: 15px;
+        
+    }
+
+}
+
+
+
+@media screen and (max-width:550px){
+    .uc img{
+        height: 200px;
+    }
+    .bilgi h1{
+        font-size: 40px;
+        margin-top: 50px;
+    }
+
+}
+@media screen and (max-width:460px){
+    .pmg img{
+        width: 80px;
+        height: 80px;
+        margin: 50px 15px ;
+    }
+    .dmg img{
+        width: 80px;
+        height: 80px;
+        margin: 50px 15px ;
+    }
+    .pmg{
+        justify-content: center;
+    }
+    .dmg h6{
+        font-size: 6px;
+    }
+    .dmg h6{
+        margin-top: -60px;
+    }
+    .pmg h6{
+        margin-top: -60px;
+    }
+    .dmg h4{
+        margin-top: -25px;
+    }
+    .pmg h4{
+        margin-top: -25px;
+    }
+    .dmg h4{
+        font-size: 4px;
+    }
+    .pmg h6{
+        font-size: 6px;
+    }
+    .pmg h4{
+        font-size: 4px;
+    } 
+    .girit p{
+        padding-left: 5px;
+    }
+    .man p{
+        margin-left: 85px;
+    }
+    .bilgi h6{
+        font-size: 15px;
+        
+    }
+   
+
+}
+@media screen and (max-width:400px){
+    .navbar{
+        width: 100%;
+    }
+    .navbar .content{
+        width: 60px;
+    }
+    .gri{
+        width: 100%;
+    }
+    .gri .content{
+        width: 55px;
+    }
+    .logo img{
+        width: 55px;
+    }
+    .gri img{
+        width: 50px;
+
+    }
+    .navbar a{
+        font-size: 10px;
+    }
+    .gri a{
+        font-size: 10px;
+    }
+    .sef h4{
+        font-size: 10px;
+    }
+    .sef h1{
+        font-size: 30px;
+    }
+    .pro li{
+        font-size: 15px;
+    }
+    
+
+}
+
+
+
+    
+
